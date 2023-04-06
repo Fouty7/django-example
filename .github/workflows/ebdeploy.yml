@@ -45,5 +45,5 @@ jobs:
           environment_name: djangoexample-dev
           
           version_label: django-example-v2022-18-04.1
-          region: "ap-southeast-1"
+          region: "us-east-2"
           deployment_package: deploy.zip
