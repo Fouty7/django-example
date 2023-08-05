@@ -1,4 +1,4 @@
-Getting started with Django
+# Getting started with Django
 
 If you already cloned this repository, you should create a virtual environment.
 
